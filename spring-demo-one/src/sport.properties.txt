@@ -1,0 +1,2 @@
+foo.email:selamlar@gmail.com
+foo.team:Kim Busik Futbol Federasyonu
